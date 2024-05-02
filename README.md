@@ -13,6 +13,8 @@ My inspiration comes from the mastermind "V.I.K.I." in the movie "I, Robot", whi
 I found the function Orbit Control in the example on p5.js website. 
 ![the image of orbit control](readmeImages/orbit%20control.png)
 [Orbit Control](https://p5js.org/examples/3d-orbit-control.html)
+
+_Here is the code for Orbit Control_
 ```
 let cam;
 function setup() {
